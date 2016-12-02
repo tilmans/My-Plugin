@@ -1,1 +1,1 @@
-.\node_modules\.bin\avid-mcux dev -b https://media-central
+.\node_modules\.bin\avid-mcux dev -b https://media-central -i dist
