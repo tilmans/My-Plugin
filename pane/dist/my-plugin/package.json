@@ -1,0 +1,7 @@
+{
+  "main": "./index.js",
+  "avid": {
+    "format": "amd",
+    "autoload": true
+  }
+}

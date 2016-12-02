@@ -1,0 +1,1 @@
+.\node_modules\.bin\avid-mcux dev -b https://media-central
