@@ -8,7 +8,7 @@ var binder = require('avid-mcux-actions-binder');
 
 binder.bind({
     places: [ binder.place.CONTEXT_MENU, binder.place.VIEW_MENU ],
-	filter: [ 'static-plugin-example.example-view', 'av-ext4-example' ],
+	filter: [ 'my-plugin', 'static-plugin-example.example-view', 'av-ext4-example' ],
     defaults: {
         index: 900
     },
